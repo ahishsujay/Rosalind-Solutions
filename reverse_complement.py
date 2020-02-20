@@ -20,4 +20,6 @@ def Complement(Pattern):
             complement = complement + "C"
         elif i == "C":
             complement = complement + "G"
-    return complement
+    print(complement)
+
+ReverseComplement("TCAATGTAAC")
