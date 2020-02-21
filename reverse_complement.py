@@ -22,4 +22,3 @@ def Complement(Pattern):
             complement = complement + "G"
     print(complement)
 
-ReverseComplement("TCAATGTAAC")
